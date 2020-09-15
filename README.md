@@ -19,7 +19,7 @@ The Ariel Acute Pancreatitis Severity Calculator has the following functions:
 * install yarn
 * clone the repo
     ```
-    git clone https://github.com/Ariel-Precision-Medicine/ariel-severity-calculator-software.git
+    git clone https://github.com/artur-master/pancreatitis-tracker.git
     ```
 * install yarn packages
     ```
